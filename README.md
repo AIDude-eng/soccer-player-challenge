@@ -8,7 +8,7 @@ To get started, Node.js and npm have to be installed.
 <br>
 The Project was created with the React App Library and the typescript extension using:
 
-<br>
+
 `npx create-react-app my-app --template typescript`
 
 It can be started with npm:
