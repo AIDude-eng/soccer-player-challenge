@@ -9,12 +9,12 @@ To get started, Node.js and npm have to be installed.
 
 The Project was created with the React App Library and the typescript extension using:
 
-### `npx create-react-app soccer-player-challenge --template typescript`
+#### `npx create-react-app soccer-player-challenge --template typescript`
 
 Before use, dependencies must be installed with:
 
-### `npm install`
+#### `npm install`
 
 Start the project with:
 
-### `npm start`
+#### `npm start`
