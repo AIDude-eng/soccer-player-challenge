@@ -5,13 +5,16 @@
 This is my result of the datavisyn Coding Challenge for Junior Developers.
 
 To get started, Node.js and npm have to be installed.
-
-<br>
-The Project was created with the React App Library and the typescript extension using:
 <br><br>
 
-`npx create-react-app my-app --template typescript`
+The Project was created with the React App Library and the typescript extension using:
 
-It can be started with npm:
+###`npx create-react-app soccer-player-challenge --template typescript`
 
-`npm start`
+Before use, dependencies must be installed with:
+
+###`npm install`
+
+Start the project with:
+
+###`npm start`
